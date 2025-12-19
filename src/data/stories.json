@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Le Soleil et la Lune",
+    "description": "Une histoire d'amitié céleste qui explique pourquoi on ne les voit jamais ensemble.",
+    "content": "Il était une fois, dans le grand ciel bleu, le Soleil et la Lune qui étaient les meilleurs amis du monde. Le Soleil brillait fort toute la journée, réchauffant la terre avec ses rayons dorés. La Lune, elle, veillait sur la nuit, éclairant le monde de sa douce lumière argentée. Mais un jour, ils réalisèrent qu'ils ne pouvaient jamais jouer ensemble...",
+    "image": "https://images.unsplash.com/photo-1532693322450-2cb5c511067d?w=600",
+    "themeColor": "bg-yellow-50"
+  },
+  {
+    "id": 2,
+    "title": "Le Petit Lapin Courageux",
+    "description": "Comment un tout petit lapin a sauvé la forêt enchantée.",
+    "content": "Au cœur de la forêt enchantée vivait Pompon, un petit lapin pas plus haut qu'une pomme. Tous les animaux se moquaient de sa petite taille. Mais un jour, un orage terrible menaça d'inonder les terriers. Seul Pompon, assez petit pour se faufiler dans les racines, put débloquer la rivière et sauver ses amis.",
+    "image": "https://images.unsplash.com/photo-1585110396000-c92857419f8e?w=600",
+    "themeColor": "bg-green-50"
+  },
+  {
+    "id": 3,
+    "title": "La Fusée en Carton",
+    "description": "Le voyage imaginaire de Léo vers les étoiles.",
+    "content": "Léo avait une grande boîte en carton. Pour les adultes, c'était juste un carton. Mais pour Léo, c'était la fusée 'Étoile Filante 3000' ! Il mit son casque (une passoire), s'installa aux commandes (des dessins au feutre) et commença le compte à rebours : '3, 2, 1... Décollage !' Et soudain, le salon disparut pour laisser place à la Voie Lactée.",
+    "image": "https://images.unsplash.com/photo-1517976487492-5750f3195933?w=600",
+    "themeColor": "bg-blue-50"
+  },
+   {
+    "id": 4,
+    "title": "Le Chat qui Voulait Voler",
+    "description": "Moustache le chat a un grand rêve : devenir un oiseau.",
+    "content": "Moustache passait ses journées à regarder les oiseaux sur le toit. 'Si seulement j'avais des ailes !' soupirait-il. Il essaya de se fabriquer des ailes avec des feuilles, puis avec du papier journal, mais rien ne fonctionnait. Jusqu'au jour où il rencontra un vieux hibou sage qui lui apprit qu'on peut voler... dans ses rêves !",
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600",
+    "themeColor": "bg-purple-50"
+  }
+]
